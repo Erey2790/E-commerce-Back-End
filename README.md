@@ -19,6 +19,8 @@ This project is showcasing my skills in back end to an ecommerce site. I take a 
 
 Insert gif or link to demo
 
+![Ecommerce NPM START](https://user-images.githubusercontent.com/90116580/165851989-59b6b1f0-b7cb-4fb7-a225-0fabcb363598.gif)
+![ECOMMERCE INSOMNIA GIF](https://user-images.githubusercontent.com/90116580/165852041-73d8af3f-7293-449e-ae16-4f97a05bd2bd.gif)
 
 ## Deployment
 
