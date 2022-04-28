@@ -12,7 +12,6 @@ This project is showcasing my skills in back end to an ecommerce site. I take a 
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
